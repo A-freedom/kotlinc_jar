@@ -1,0 +1,7 @@
+ولا تحوله إلى ملف جار jar
+
+kotlinc hello.kt -include-runtime -d hello.jar
+
+ثم تنفذ ملف الجار
+
+java -jar hello.jar
