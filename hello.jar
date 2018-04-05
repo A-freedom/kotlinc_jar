@@ -1,4 +1,4 @@
-ولا تحوله إلى ملف جار jar
+ اولاً تحوله إلى ملف جار jar
 
 kotlinc hello.kt -include-runtime -d hello.jar
 
